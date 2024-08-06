@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🔭 I’m currently working on **a RAG**
+🔭 I’m currently working on **RAGS and Model Training**
 
-🌱 I’m currently learning **Generative AI and MEARN.**
+🌱 I’m currently learning **Generative AI and MERN.**
 
 💬 Ask me about **RAG's, JavaScript, C++, ... or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
