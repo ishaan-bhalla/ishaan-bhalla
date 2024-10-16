@@ -5,7 +5,7 @@
 
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <br/>
 <div>
   
@@ -16,7 +16,7 @@
 💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
 ⚡ Fun fact **The iconic orange couch from Central Perk in "FRIENDS" was found in the Warner Bros studio basement!**
-
+<br/>
  </div>
 
  <div align="center"> 
