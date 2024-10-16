@@ -1,10 +1,10 @@
-[![MasterHead](banner.gif)
+![MasterHead](banner.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishaan+Bhalla!;" />
 </h1>
 
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <br/>
 
 <div align="center">
@@ -66,17 +66,7 @@
 
 <hr/>
 
-<h2 align="center"> 🏆 GitHub Trophies</h2>
-<br>
-<div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=ishaan-bhalla&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
-<hr/>
-
-<h2 align="center"> ✍️ Random Dev Quote</h2>
+<h2 align="center"> ✍️ Dev Quote</h2>
 <br>
 <div align=center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -87,7 +77,7 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visting+🤘;Shoot+me+a;message+on+LinkedIn;I'm+always;down+to+Collab+🤝;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+always;down+to+Collab+🤝;" />
 </h1>
 
 <br/>
