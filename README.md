@@ -9,9 +9,8 @@
 <br/>
 <div>
   
-🔭 I’m currently working on **Insaaf Insight**
-
-🌱 I’m currently learning **MERN and Web3.**
+🔭 Currently working on [**Insaaf Insight**](https://github.com/ishaan-bhalla/Insaaf-Insight-Labour-Laws-Handbook)
+🌱 Learning **MERN and Web3.**
 
 💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
