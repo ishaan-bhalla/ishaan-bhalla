@@ -4,16 +4,16 @@
 </h1>
 
 <h3 align="center">A curious software developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <br/>
-
-<div align="center">
+<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<br/>
+<div>
   
-🔭 I’m currently working on **RAGS and Model Training**
+🔭 I’m currently working on **Insaaf Insight**
 
-🌱 I’m currently learning **Generative AI and MERN.**
+🌱 I’m currently learning **MERN and Web3.**
 
-💬 Ask me about **RAG's, JavaScript, C++, ... or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
+💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
 ⚡ Fun fact **The iconic orange couch from Central Perk in "FRIENDS" was found in the Warner Bros studio basement!**
 
@@ -66,6 +66,17 @@
 
 <hr/>
 
+
+<h2 align="center"> 🏆 GitHub Trophies</h2>
+<br>
+<div align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=ishaan-bhalla&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
+
+<hr/>
+
 <h2 align="center"> ✍️ Dev Quote</h2>
 <br>
 <div align=center>
@@ -77,7 +88,7 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+always;down+to+Collab+🤝;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Collab+🤝;" />
 </h1>
 
 <br/>
