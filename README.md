@@ -15,7 +15,7 @@
 
 💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
-⚡ Fun fact **"I could agree with you, but then we’d both be wrong… Let’s just nap instead." 😆**
+⚡ Fun fact **"I could agree with you,but then we’d both be wrong… Let’s just nap instead."😆**
 <br/>
  </div>
 
