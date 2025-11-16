@@ -1,12 +1,20 @@
 Hi there 👋, my name is Ishaan Bhalla
 <br/>
+<div> 
+  <a href="mailto:bhallaishaan23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhalla-ishaan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 <h3>🙋‍♂️ About me</h3>
 
 
     
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishaan+Bhalla!;" />
-</h1>
+</h1> -->
 
 <!-- <h3 align="center">A curious software developer from India 🇮🇳</h3> -->
 <br/>
