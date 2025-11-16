@@ -1,5 +1,9 @@
-![MasterHead](banner.gif)
-Hi there 👋, my name is Ishaan Bhalla
+
+<p>Hi there 👋, my name is Ishaan Bhalla</p>
+<h3>🙋‍♂️ About me</h3>
+<div>
+
+    
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishaan+Bhalla!;" />
 </h1>
