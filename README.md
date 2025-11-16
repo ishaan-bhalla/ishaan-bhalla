@@ -23,12 +23,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
 </div>
 <br/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaan-bhalla/ishaan-bhalla/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -37,13 +31,18 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaan-bhalla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaan-bhalla/ishaan-bhalla/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div> -->
 <br/><br/>
-<h2 align="center"> 🏆 GitHub Trophies</h2>
+<!-- <h2 align="center"> 🏆 GitHub Trophies</h2>
 <br>
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=ishaan-bhalla&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+</div> -->
 <br/>
 <h2 align="center"> ✍️ Dev Quote</h2>
 <br>
