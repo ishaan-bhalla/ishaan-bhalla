@@ -1,4 +1,7 @@
-Hi there 👋, my name is Ishaan Bhalla
+<div>
+  <p>Hi there 👋, my name is Ishaan Bhalla</p>  
+</div>
+
 <br/>
 <div> 
   <a href="mailto:bhallaishaan23@gmail.com">
