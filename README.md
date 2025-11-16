@@ -36,20 +36,20 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaan-bhalla/ishaan-bhalla/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div> -->
+</div>
 <br/><br/>
 <!-- <h2 align="center"> 🏆 GitHub Trophies</h2>
 <br>
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=ishaan-bhalla&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div> -->
-<br/>
+<!-- <br/>
 <h2 align="center"> ✍️ Dev Quote</h2>
 <br>
 <div align=center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
-<br/>
+<br/> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Let's+Collab+🤝;" />
 </h1>
