@@ -10,14 +10,13 @@ I'm from India 🇮🇳, currently in Bristol United Kingdom 🇬🇧. I'm a hug
 <br/>
 <div>
   
-🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Insaaf-Insight-Labour-Laws-Handbook)
+🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)
 
-🌱 Learning **MERN and Web3.**
+🌱 Learning **Web3**
 
 💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
 
-⚡ Fun fact **"I could agree with you, but then we’d both be wrong… Let’s just nap instead." 😆**
-⚡ Fun fact **"I could agree with you,but then we’d both be wrong… Let’s just nap instead."😆**
+⚡ Fun fact **"I like Pineapple🍍 on Pizza." 😆**
 <br/>
  </div>
 
