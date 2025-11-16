@@ -7,8 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
 ## 🙋‍♂️ About me 
 I'm from India 🇮🇳, currently in Bristol United Kingdom 🇬🇧. I'm a huge fan of Python, Machine Learning and writing testable software 💻. When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.
+
+
 <br/>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR3MmgyZTJvc2RyYXY1ZXF2YmNzN2tlMTJ4cTlkbTh3OHBjN2VuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <br/>
