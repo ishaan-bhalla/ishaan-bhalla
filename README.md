@@ -1,7 +1,9 @@
-
-<p>Hi there 👋, my name is Ishaan Bhalla</p>
-<h3>🙋‍♂️ About me</h3>
 <div>
+    <p>Hi there 👋, my name is Ishaan Bhalla</p>
+</div>
+
+<h3>🙋‍♂️ About me</h3>
+
 
     
 <h1 align="center">
