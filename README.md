@@ -9,10 +9,10 @@
         When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.
     </p>
     <ul>
-    🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)
-    🌱 Learning **Web3**
-    💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
-    ⚡ Fun fact 😙 **"I like Pineapple🍍 on Pizza."**
+    <li>🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)</li>
+    <li>🌱 Learning **Web3**</li>
+    <li>💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).**</li>
+    <li>⚡ Fun fact 😙 **"I like Pineapple🍍 on Pizza."**</li>
     </ul>
 
 <br/>
