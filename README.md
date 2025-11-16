@@ -1,6 +1,7 @@
 ![MasterHead](banner.gif)
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+There%F0%9F%91%8B!+I'm+Ishaan+Bhalla!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishaan+Bhalla!;" />
+</h1>
 <div>
     <h1>🙋‍♂️ About me </h1> 
     <p>
