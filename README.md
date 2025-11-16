@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F7F7F7&duration=4000&lines=Hey+There!+👋;+I'm+Ishaan+Bhalla!;" />
 </h1>
 <div>
-    <h1>🙋‍♂️ About me </h1> 
+    <h2 align="center">🙋‍♂️ About me </h1> 
     <p>
         I'm from India 🇮🇳, currently in Bristol United Kingdom 🇬🇧. I'm a huge fan of Python, Machine Learning and writing testable software 💻. 
         When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.
@@ -23,13 +23,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaan-bhalla/ishaan-bhalla/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
-</div>
+</div> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -53,7 +53,7 @@
 </div>
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Collab+🤝;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Let's+Collab+🤝;" />
 </h1>
 
 <br/>
