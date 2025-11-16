@@ -19,8 +19,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,c,cpp,css,docker,fastapi,figma,git,html" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,c,cpp,css,docker,fastapi,figma,flask,git" />
+    <img src="https://skillicons.dev/icons?i=html,java,javascript,nodejs,opencv,pytorch,python,r,react,scikitlearn,tensorflow,vscode" /><br> 
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
