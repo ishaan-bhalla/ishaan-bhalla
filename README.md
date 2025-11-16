@@ -6,20 +6,18 @@
     <h1>🙋‍♂️ About me </h1> 
     <p>
         I'm from India 🇮🇳, currently in Bristol United Kingdom 🇬🇧. I'm a huge fan of Python, Machine Learning and writing testable software 💻. 
-        When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.</p>
+        When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.
+    </p>
+    <ul>
+    🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)
+    🌱 Learning **Web3**
+    💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
+    ⚡ Fun fact 😙 **"I like Pineapple🍍 on Pizza."**
+    </ul>
+
+<br/>
 </div>
 <div>
-  
-🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)
-
-🌱 Learning **Web3**
-
-💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).** 
-
-⚡ Fun fact **"I like Pineapple🍍 on Pizza." 😆**
-<br/>
- </div>
-
  <div align="center"> 
   <a href="mailto:bhallaishaan23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
