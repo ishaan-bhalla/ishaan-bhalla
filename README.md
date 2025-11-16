@@ -22,10 +22,7 @@
     <img src="https://skillicons.dev/icons?i=aws,cpp,azure,html,css,vscode,github,mysql,git,anaconda" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
 </div>
-
 <br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -33,9 +30,6 @@
 
   <br/><br/><br/>
 </div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -46,30 +40,18 @@
 </div>
 
 <br/><br/>
-
-<hr/>
-
-
 <h2 align="center"> 🏆 GitHub Trophies</h2>
 <br>
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=ishaan-bhalla&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
-
 <br/>
-
-<hr/>
-
 <h2 align="center"> ✍️ Dev Quote</h2>
 <br>
 <div align=center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
-
 <br/>
-
-<hr/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Collab+🤝;" />
 </h1>
