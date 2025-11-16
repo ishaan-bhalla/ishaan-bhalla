@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,cpp,azure,html,css,vscode,github,mysql,git,anaconda" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,c,cpp,css,docker,fastapi,figma,git,html" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
 </div>
 <br/>
