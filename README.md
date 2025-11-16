@@ -23,11 +23,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,sublime,tensorflow,flask,mongodb,c,java,nextjs,figma,notion" /><br>
 </div>
 <br/>
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishaan-bhalla/ishaan-bhalla/output/github-contribution-grid-snake.svg" />
-
   <br/><br/><br/>
 </div> -->
 <h2 align="center">⚡ Stats ⚡</h2>
