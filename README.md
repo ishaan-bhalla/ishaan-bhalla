@@ -9,15 +9,13 @@
         When I'm not building dreams, I can be found playing table tennis 🏓, playing cricket 🏏, watchine movies🎥 or travelling 🧳.
     </p>
     <ul>
-    <li>🔭 Currently working on [**Prescription Analysis**](https://github.com/ishaan-bhalla/Prescription-Analysis)</li>
-    <li>🌱 Learning **Web3**</li>
-    <li>💬 Ask me about **AI or anything [here](https://www.linkedin.com/in/bhalla-ishaan/).**</li>
-    <li>⚡ Fun fact 😙 **"I like Pineapple🍍 on Pizza."**</li>
+      <li>🔭 Currently working on <a href="https://github.com/ishaan-bhalla/Prescription-Analysis"><strong>Prescription Analysis</strong></a></li>
+      <li>🌱 Learning <strong>Web3</strong></li>
+      <li>💬 Ask me about <strong>AI or anything <a href="https://www.linkedin.com/in/bhalla-ishaan/">here</a>.</strong></li>
+      <li>⚡ Fun fact 😙 <strong>"I like Pineapple🍍 on Pizza."</strong></li>
     </ul>
-
+</div>
 <br/>
-<hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
