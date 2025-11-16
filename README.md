@@ -16,20 +16,6 @@
     </ul>
 
 <br/>
-</div>
-<div>
- <div align="center"> 
-  <a href="mailto:bhallaishaan23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhalla-ishaan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/_ishaanbhalla">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
