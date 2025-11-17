@@ -10,7 +10,7 @@
     </p>
     <ul>
       <li>🔭 Currently working on <a href="https://github.com/ishaan-bhalla/Prescription-Analysis"><strong>Prescription Analysis</strong></a></li>
-      <li>🌱 Learning <strong>Web3</strong></li>
+      <li>🌱 Learning <strong>Data Science</strong></li>
       <li>💬 Ask me about <strong>AI or anything <a href="https://www.linkedin.com/in/bhalla-ishaan/">here</a>.</strong></li>
       <li>⚡ Fun fact 😙 <strong>"I like Pineapple🍍 on Pizza."</strong></li>
     </ul>
